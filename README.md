@@ -9,3 +9,6 @@ I'm Twaambo, a Zambian software developer.
 ## Get in touch with me
 - Twitter: https://twitter.com/twmbx
 - Personal site: https://twaambo.com/
+
+## Want to hire me?
+- Remote OK: https://remoteok.io/@twmbx  &middot;  (*my timezone is GMT+2*)
