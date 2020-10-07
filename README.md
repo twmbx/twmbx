@@ -1,9 +1,10 @@
 ## Hi 🖖🏿
-I'm Twaambo, a Zambian software developer.
+I'm Twaambo, a Zambian software developer.<br>
+👨🏿‍💻 I develop for the full stack with a leaning towards the back end with my preferred language to use being PHP.
 
-💼 At the moment I am working remotely on PHP eCommerce products as well as running [Mvesesani](https://about.mvesesani.com).<br>
-⚗️ I've recently been experimenting & tinkering with Go for back end server & command line tools, Dart & Flutter for cross platform mobile development and recently C# with dotNet Core for cross platform command line tools as well as desktop tools using Electron.Net.<br>
-🤩 I'm excited about solving problems around digital commerce for the African context with Zambia as my current focus.<br>
+💼 Most recently I've worked remotely on PHP eCommerce products in addition to running [Mvesesani](https://about.mvesesani.com).<br><br>
+⚗️ I've recently been experimenting & tinkering with Go for back end server & command line tools as well as Dart because, Flutter.<br><br>
+🤩 I'm excited about solving problems around digital commerce for the African context with Zambia as my current focus.<br><br>
 🇿🇲 Are you looking for other Zambian developers? Check out [Zambian.dev](https://zambian.dev)<br>
 🛠️ Interested in seeing some OSS stuff that Zambian developers have been working on? Have a look at [Made In Zambia](https://github.com/ZambianTech/made-in-zambia).<br>
 
