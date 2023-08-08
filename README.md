@@ -9,4 +9,4 @@ I'm Twaambo, a Zambian software developer.<br><br>
 
 ## Get in touch with me
 - Twitter: https://twitter.com/twmbx
-- Personal site: https://twaambo.com/
+- Personal site: https://twmbx.com/
