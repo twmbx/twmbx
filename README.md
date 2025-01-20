@@ -7,5 +7,5 @@ I'm Twaambo, a Zambian software developer.<br><br>
 🇿🇲 Are you looking for other Zambian developers and interested in seeing some OSS stuff that Zambian developers have been working on? Have a look at [Made In Zambia](https://github.com/ZambianTech/made-in-zambia).<br>
 
 ## Get in touch with me
-- Twitter: https://twitter.com/twmbx
+- Twitter: https://x.com/twmbx
 - Personal site: https://twmbx.com/
